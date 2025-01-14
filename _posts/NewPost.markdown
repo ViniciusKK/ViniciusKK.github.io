@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "How to pronounce my name"
-date:   2025-01-13
+title:  "Welcome to Jekyll!"
+date:   2025-01-13 16:52:06 -0300
+categories: jekyll update
 ---
 Vinicius is a Brazilian name and a pretty popular one. Famous examples include Vinicius de Moraes, the composer of Girl from Ipanema, and Vini Jr, the best footballer in the world.
 
