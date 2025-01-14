@@ -1,0 +1,1 @@
+testando como os posts funcionam
