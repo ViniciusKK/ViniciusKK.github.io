@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A origem do meu nome"
+title:  "NewPost"
 date:   2025-01-13 16:52:06 -0300
-categories: jekyll update
+categories: other
 ---
 Vinicius is a Brazilian name and a pretty popular one. Famous examples include Vinicius de Moraes, the composer of Girl from Ipanema, and Vini Jr, the best footballer in the world.
 
